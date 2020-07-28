@@ -32,9 +32,13 @@ function send_template(room,id,set){ //카카오 디벨로퍼에 만든 템플�
   Kakao.send(room,template,'custom');
 }
 
+/* 가게마다 try-catch 로 예외를 잡아준 이유는, 자기가 만든 템플릿양식은 5개의 리스트인데, 만약 망고플레이트 맛집검색에서 4개 혹은 3개와 같이 5개미만의 갯수로 검색이 된다면, 템플릿
+양식에 맞지않아서 오류가 발생합니다. 처음에는 가게전부다 try-catch로 잡아줬는데, 중간에 catch로 오류가 나면, 그 아래를 실행하지 않고 끝나버려서 각각 가게마다 예외처리를 하였습니다.
+더 좋은 방안이 있다면 메일부탁드립니다!*/
+
 //가게1
-function store1(){
-  try{
+function store1(){ 
+  try{ 
     img1=doc.select("img[class=center-croping lazy]").get(0).attr("abs:data-original"); //이미지 파싱
     ee1= doc.select("h2.title").get(0).text(); //가게이름
     vv1=doc.select("p.etc").get(0).text(); //가게 위치 및 음식 정보
