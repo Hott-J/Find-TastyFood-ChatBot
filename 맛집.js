@@ -55,7 +55,7 @@ function response(room, msg, sender, isGroupChat, replier, ImageDB, packageName,
       doc2 = Jsoup.connect("https://www.mangoplate.com/search/"+f2).get();
       let d2=doc2.select('div.info > a').get(0).attr('href');
 
-//가게3
+//가게3.
       var ee3= doc.select("h2.title").get(2).text();
       var vv3=doc.select("p.etc").get(2).text();
       var dd3=ee3.replace(/[ ]/gi,'')+" "+vv3;
