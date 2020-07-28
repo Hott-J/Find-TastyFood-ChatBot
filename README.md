@@ -28,3 +28,8 @@
 
      !맛집 (대상) (특징)
    ![카링맛집3](https://user-images.githubusercontent.com/47052106/88627632-8ffd8200-d0e7-11ea-9ab5-c691421edb42.JPG)
+   
+<br/>
+
+## * 구현 로직
+- - -
