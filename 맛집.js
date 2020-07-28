@@ -145,7 +145,8 @@ function response(room, msg, sender, isGroupChat, replier, ImageDB, packageName,
       v5:vv5,
       i5:img5
     }
-    send_template(room,33238,set); //카카오 디벨로퍼에 만든 33238 템플릿으로 만들어서 보냄
+    send_template(room,my template id,set); /*카카오 디벨로퍼에 만든 본인 템플릿 형식으로 보냄 
+                                            ***중요포인트 : 반드시 템플릿 id를 string이 아닌 정수형으로 넣으세요! 문자열로 했다가 오류나서 한참걸렸네요,,,*/
   }
 }
 
