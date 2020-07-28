@@ -1,13 +1,4 @@
 const scriptName = "맛집찾기";
-/**
-* (string) room
-* (string) sender
-* (boolean) isGroupChat
-* (void) replier.reply(message)
-* (boolean) replier.reply(room, message, hideErrorToast = false) // 전송 성공시 true, 실패시 false 반환
-* (string) imageDB.getProfileBase64()
-* (string) packageName
-*/
 
 /**************************************************************************Made by Hakjae Chung
 ***************************************************************************처음 카카오링크로 만들어봐서 클린코드는 아닙니다,,,
@@ -108,6 +99,16 @@ function store5(){
 }
 
 function response(room, msg, sender, isGroupChat, replier, ImageDB, packageName, threadId){
+  /**
+* (string) room
+* (string) sender
+* (boolean) isGroupChat
+* (void) replier.reply(message)
+* (boolean) replier.reply(room, message, hideErrorToast = false) // 전송 성공시 true, 실패시 false 반환
+* (string) imageDB.getProfileBase64()
+* (string) packageName
+*/
+  
   Jsoup = org.jsoup.Jsoup
   if (msg.startsWith("!맛집")) {
     search = msg.substr(3).trim();
