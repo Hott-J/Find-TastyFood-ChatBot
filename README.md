@@ -1,4 +1,4 @@
-# Find_TastyFood_ChatBot
+# * Find_TastyFood_ChatBot
 - - -
 
     - 카카오링크를 사용하여 나만의 템플릿으로 맛집을 검색해주는 채팅봇입니다. 
@@ -11,7 +11,7 @@
 
 - - -
 
-### 사용 예시
+## * 사용 예시
 
 <br/>
 
