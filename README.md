@@ -15,16 +15,16 @@
 
 <br/>
 
- > ## 1. !맛집 (대상) <5개 이상>
+    > ## 1. !맛집 (대상) <5개 이상>
 
    ![카링맛집1](https://user-images.githubusercontent.com/47052106/88627592-7ceab200-d0e7-11ea-9752-12a2820949c2.JPG)
 
 <br/>
 
-> ## 2. !맛집 (대상) <5개 미만>
+    > ## 2. !맛집 (대상) <5개 미만>
    ![카링맛집2](https://user-images.githubusercontent.com/47052106/88627628-8ecc5500-d0e7-11ea-9828-3ab6d94f38ef.JPG)
 
 <br/>
 
-> ## 3. !맛집 (대상) (특징)
-   ![카링맛집3](https://user-images.githubusercontent.com/47052106/88627632-8ffd8200-d0e7-11ea-9ab5-c691421edb42.JPG)
+    > ## 3. !맛집 (대상) (특징)
+    ![카링맛집3](https://user-images.githubusercontent.com/47052106/88627632-8ffd8200-d0e7-11ea-9ab5-c691421edb42.JPG)
