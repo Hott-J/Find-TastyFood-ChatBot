@@ -9,6 +9,9 @@ const scriptName = "맛집찾기";
 * (string) packageName
 */
 
+//made by hakjae chung
+//처음 카카오링크로 만들어봐서 클린코드는 아닙니다,,,
+
 var img1,ee1,vv1,dd1,f1,doc1,d1,
 img2,ee2,vv2,dd2,f2,doc2,d2,
 img3,ee3,vv3,dd3,f3,doc3,d3,
@@ -17,8 +20,8 @@ img5,ee5,vv5,dd5,d5,doc5,d5;
 
 const kalingModule=require('kaling').Kakao();
 const Kakao=new kalingModule;
-Kakao.init('2d0e4efc34993dc5353ebb2f964f3f4d');
-Kakao.login('jhj07152019@gmail.com','rkdmfdl.7');
+Kakao.init('my js key'); // 중요포인트 : 반드시 봇계정 카카오아이디와 패스워드로 카카오디벨로퍼에 로그인하여 자바스크립트 키값을 받아올것!
+Kakao.login('my kakao id','password'); //중요포인트 : 반드시 봇계정 카카오아이디와 패스워드를 적어줄것!!
 
 function kakao_login(){ //카카오링크 사용을 위해 로그인 세션이 만료되지 않게하기 위함
   try{
