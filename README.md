@@ -22,12 +22,12 @@
 <br/>
 
      !맛집 (대상) <리스트 5개 미만>
-   ![맛집맨체스터예시](https://user-images.githubusercontent.com/47052106/88888271-fa91f780-d278-11ea-98e1-583e4e0954ce.jpg)
+  ![맛집맨체스터예시](https://user-images.githubusercontent.com/47052106/88888541-75f3a900-d279-11ea-9e20-66937a195925.jpg)
    
 <br/>
 
      !맛집 (대상) (특징)
-  ![숭실대카페맛집예시](https://user-images.githubusercontent.com/47052106/88887987-69228580-d278-11ea-8436-02565217a311.jpg)
+  ![숭실대카페맛집예시](https://user-images.githubusercontent.com/47052106/88888575-8a37a600-d279-11ea-83a1-30d56d09faba.jpg)
   
    
 <br/>
