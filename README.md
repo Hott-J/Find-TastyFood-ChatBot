@@ -17,17 +17,18 @@
 - - -
 
      !맛집 (대상) <리스트 5개 이상>
-   ![카링맛집1](https://user-images.githubusercontent.com/47052106/88627592-7ceab200-d0e7-11ea-9752-12a2820949c2.JPG)
+   ![맛집숭실대예시](https://user-images.githubusercontent.com/47052106/88887980-66279500-d278-11ea-849d-fcbd0e6514c3.jpg)
 
 <br/>
 
      !맛집 (대상) <리스트 5개 미만>
-   ![카링맛집2](https://user-images.githubusercontent.com/47052106/88627628-8ecc5500-d0e7-11ea-9828-3ab6d94f38ef.JPG)
-
+   ![맛집맨체스터예시](https://user-images.githubusercontent.com/47052106/88887972-63c53b00-d278-11ea-94c5-68f30558c996.jpg)
+   
 <br/>
 
      !맛집 (대상) (특징)
-   ![카링맛집3](https://user-images.githubusercontent.com/47052106/88627632-8ffd8200-d0e7-11ea-9ab5-c691421edb42.JPG)
+  ![숭실대카페맛집예시](https://user-images.githubusercontent.com/47052106/88887987-69228580-d278-11ea-8436-02565217a311.jpg)
+  
    
 <br/>
 
