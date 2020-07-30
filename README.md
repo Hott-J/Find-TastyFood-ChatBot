@@ -17,7 +17,7 @@
 - - -
 
      !맛집 (대상) <리스트 5개 이상>
-   ![맛집숭실대예시](https://user-images.githubusercontent.com/47052106/88887980-66279500-d278-11ea-849d-fcbd0e6514c3.jpg)
+   ![맛집숭실대예시](https://user-images.githubusercontent.com/47052106/88888394-34fb9480-d279-11ea-9f1e-2647a667c51e.jpg)
 
 <br/>
 
