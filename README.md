@@ -39,4 +39,5 @@
      따라서, try-catch 문을 활용하여 검색결과가 없을시에, 공백이 반환되도록 예외처리를 하였습니다.
 
 <br/>
-  ![맛집로직](https://user-images.githubusercontent.com/47052106/88889104-85bfbd00-d27a-11ea-9b7f-f6821bdfd5be.JPG)
+
+ ![맛집로직](https://user-images.githubusercontent.com/47052106/88889284-d3d4c080-d27a-11ea-9cf1-11912968bd15.JPG)
