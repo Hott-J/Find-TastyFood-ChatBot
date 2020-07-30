@@ -22,7 +22,7 @@
 <br/>
 
      !맛집 (대상) <리스트 5개 미만>
-   ![맛집맨체스터예시](https://user-images.githubusercontent.com/47052106/88887972-63c53b00-d278-11ea-94c5-68f30558c996.jpg)
+   ![맛집맨체스터예시](https://user-images.githubusercontent.com/47052106/88888271-fa91f780-d278-11ea-98e1-583e4e0954ce.jpg)
    
 <br/>
 
