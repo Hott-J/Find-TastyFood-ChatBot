@@ -23,8 +23,8 @@ const Kakao=new kalingModule;
 /* 카카오링크 사용을 위해 로그인 세션이 만료되지 않게하기 위함 */
 function kakao_login(){
   try{
-    Kakao.init('2d0e4efc34993dc5353ebb2f964f3f4d'); // 중요포인트 : 반드시 봇계정 카카오아이디와 패스워드로 카카오디벨로퍼에 로그인하여 자바스크립트 키값을 받아올것!
-    Kakao.login('jhj07152019@gmail.com','rkdmfdl.7');// 중요포인트 : 반드시 봇계정 카카오아이디와 패스워드를 적어줄것!!
+    Kakao.init('Jskey'); // 중요포인트 : 반드시 봇계정 카카오아이디와 패스워드로 카카오디벨로퍼에 로그인하여 자바스크립트 키값을 받아올것!
+    Kakao.login('kakaoid','password');// 중요포인트 : 반드시 봇계정 카카오아이디와 패스워드를 적어줄것!!
     doc = Jsoup.connect("https://www.mangoplate.com/search/"+search).get();
   }catch(e){replier.reply("로그인 세션이 만료되었습니다.")}
 }
@@ -70,7 +70,7 @@ function response(room, msg, sender, isGroupChat, replier, ImageDB, packageName,
       m:search,d1:d[0],d2:d[1],d3:d[2],d4:d[3],d5:d[4],e1:ee[0],v1:vv[0],i1:img[0],e2:ee[1],v2:vv[1],
       i2:img[1],e3:ee[2],v3:vv[2],i3:img[2],e4:ee[3],v4:vv[3],i4:img[3],e5:ee[4],v5:vv[4],i5:img[4]
     }
-    send_template(room, 33238,set); /*카카오 디벨로퍼에 만든 본인 템플릿 형식으로 보냄
+    send_template(room, tempid,set); /*카카오 디벨로퍼에 만든 본인 템플릿 형식으로 보냄
     ***중요포인트 : 반드시 템플릿 id를 string이 아닌 정수형으로 넣으세요.***/
   }
 }
